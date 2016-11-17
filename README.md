@@ -1,6 +1,6 @@
 # Mozilla's cross-browser testing lab
 
-## Get acquainted with cross-browser testing best practices
+<h2 id="best-practices">Get acquainted with cross-browser testing best practices</h2>
 
 Master cleanse meggings leggings pok pok. Af dreamcatcher seitan etsy, bitters tacos shoreditch cronut cray meggings banh mi mumblecore. Try-hard activated charcoal mixtape, salvia neutra four dollar toast 90's master cleanse artisan helvetica lumbersexual meggings. Bitters typewriter freegan chia farm-to-table irony schlitz keffiyeh fap edison bulb viral. Biodiesel tofu YOLO, chartreuse hoodie chillwave echo park 8-bit scenester tousled four dollar toast. Venmo YOLO jianbing man bun put a bird on it air plant, kitsch shabby chic +1 hella. Thundercats fanny pack everyday carry meh jean shorts.
 
